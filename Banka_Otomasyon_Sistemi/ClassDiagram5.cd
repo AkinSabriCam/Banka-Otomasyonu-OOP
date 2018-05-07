@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Banka_Otomasyon_Sistemi.Banka" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAAAgCAABAAAAAAAIAACAEgAAgAAAgCSAKCBAEAAA=</HashCode>
+      <FileName>Banka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.Bireysel" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bireysel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.Form1" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAEIAAAAGAQACCQIACAAABKAAAAAAAAAAQFQIFIAIE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.FormBankaGelirGiderRaporu" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAIACAAAACQAAEAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>FormBankaGelirGiderRaporu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.FormHesapKapatma" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAABIAIICAAAACAIAIAAAAIAAAAAAAQAA=</HashCode>
+      <FileName>FormHesapKapatma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.FormHesapOzeti" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAGAIAACAAAAAAIgDAAAGCAgAAAAAEAAAAAAACAAA=</HashCode>
+      <FileName>FormHesapOzeti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.FormMusteriEkle" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAASIBABAAKASIAAACIAgAAAAAAAAiAAAAAIA=</HashCode>
+      <FileName>FormMusteriEkle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.FormMusteriSil" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAABAAIACAACACAAgAAAAAAAABAAAIAAA=</HashCode>
+      <FileName>FormMusteriSil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.FormParaİşlemleri" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gITiAAAAICCAABQAIACAAAECATAAQAAIAAgAABAQAAA=</HashCode>
+      <FileName>FormParaİşlemleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.FormYeniHesapAç" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAiAACBAAIACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>FormYeniHesapAç.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.Hesap" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACIAEAAAAACAAAAAAAIAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Hesap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.HesapOzet" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAQgAAAAAAAAAAAAAAAABBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HesapOzet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.Musteri" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAACIAAAEAAAAIAAAAAAAAAABAACAAKAAwAAAA=</HashCode>
+      <FileName>Musteri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.Program" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.Ticari" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ticari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.Properties.Resources" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAJEAAgAQAAAAAAAAACAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banka_Otomasyon_Sistemi.Properties.Settings" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
